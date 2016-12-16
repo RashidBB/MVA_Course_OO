@@ -1,0 +1,6 @@
+C:\Users\Rashid\Documents\Visual Studio 2013\Projects\EncapsulationLab\EncapsulationLab\bin\Debug\EncapsulationLab.exe.config
+C:\Users\Rashid\Documents\Visual Studio 2013\Projects\EncapsulationLab\EncapsulationLab\obj\Debug\EncapsulationLab.exe
+C:\Users\Rashid\Documents\Visual Studio 2013\Projects\EncapsulationLab\EncapsulationLab\obj\Debug\EncapsulationLab.pdb
+C:\Users\Rashid\Documents\Visual Studio 2013\Projects\EncapsulationLab\EncapsulationLab\obj\Debug\OOLabs.csprojResolveAssemblyReference.cache
+C:\Users\Rashid\Documents\Visual Studio 2013\Projects\EncapsulationLab\EncapsulationLab\bin\Debug\EncapsulationLab.exe
+C:\Users\Rashid\Documents\Visual Studio 2013\Projects\EncapsulationLab\EncapsulationLab\bin\Debug\EncapsulationLab.pdb
